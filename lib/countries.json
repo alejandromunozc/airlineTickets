@@ -1,0 +1,2340 @@
+[{
+        "flag": "https://restcountries.eu/data/afg.svg",
+        "name": "Afghanistan",
+        "alpha3Code": "AFG",
+        "capital": "Kabul",
+        "timezones": [
+            "UTC+04:30"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/ala.svg",
+        "name": "Åland Islands",
+        "alpha3Code": "ALA",
+        "capital": "Mariehamn",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/alb.svg",
+        "name": "Albania",
+        "alpha3Code": "ALB",
+        "capital": "Tirana",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/dza.svg",
+        "name": "Algeria",
+        "alpha3Code": "DZA",
+        "capital": "Algiers",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/asm.svg",
+        "name": "American Samoa",
+        "alpha3Code": "ASM",
+        "capital": "Pago Pago",
+        "timezones": [
+            "UTC-11:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/and.svg",
+        "name": "Andorra",
+        "alpha3Code": "AND",
+        "capital": "Andorra la Vella",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/ago.svg",
+        "name": "Angola",
+        "alpha3Code": "AGO",
+        "capital": "Luanda",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/aia.svg",
+        "name": "Anguilla",
+        "alpha3Code": "AIA",
+        "capital": "The Valley",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/ata.svg",
+        "name": "Antarctica",
+        "alpha3Code": "ATA",
+        "capital": "",
+        "timezones": [
+            "UTC-03:00",
+            "UTC+03:00",
+            "UTC+05:00",
+            "UTC+06:00",
+            "UTC+07:00",
+            "UTC+08:00",
+            "UTC+10:00",
+            "UTC+12:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/atg.svg",
+        "name": "Antigua and Barbuda",
+        "alpha3Code": "ATG",
+        "capital": "Saint John's",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/arg.svg",
+        "name": "Argentina",
+        "alpha3Code": "ARG",
+        "capital": "Buenos Aires",
+        "timezones": [
+            "UTC-03:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/arm.svg",
+        "name": "Armenia",
+        "alpha3Code": "ARM",
+        "capital": "Yerevan",
+        "timezones": [
+            "UTC+04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/abw.svg",
+        "name": "Aruba",
+        "alpha3Code": "ABW",
+        "capital": "Oranjestad",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/aus.svg",
+        "name": "Australia",
+        "alpha3Code": "AUS",
+        "capital": "Canberra",
+        "timezones": [
+            "UTC+05:00",
+            "UTC+06:30",
+            "UTC+07:00",
+            "UTC+08:00",
+            "UTC+09:30",
+            "UTC+10:00",
+            "UTC+10:30",
+            "UTC+11:30"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/aut.svg",
+        "name": "Austria",
+        "alpha3Code": "AUT",
+        "capital": "Vienna",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/aze.svg",
+        "name": "Azerbaijan",
+        "alpha3Code": "AZE",
+        "capital": "Baku",
+        "timezones": [
+            "UTC+04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/bhs.svg",
+        "name": "Bahamas",
+        "alpha3Code": "BHS",
+        "capital": "Nassau",
+        "timezones": [
+            "UTC-05:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/bhr.svg",
+        "name": "Bahrain",
+        "alpha3Code": "BHR",
+        "capital": "Manama",
+        "timezones": [
+            "UTC+03:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/bgd.svg",
+        "name": "Bangladesh",
+        "alpha3Code": "BGD",
+        "capital": "Dhaka",
+        "timezones": [
+            "UTC+06:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/brb.svg",
+        "name": "Barbados",
+        "alpha3Code": "BRB",
+        "capital": "Bridgetown",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/blr.svg",
+        "name": "Belarus",
+        "alpha3Code": "BLR",
+        "capital": "Minsk",
+        "timezones": [
+            "UTC+03:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/bel.svg",
+        "name": "Belgium",
+        "alpha3Code": "BEL",
+        "capital": "Brussels",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/blz.svg",
+        "name": "Belize",
+        "alpha3Code": "BLZ",
+        "capital": "Belmopan",
+        "timezones": [
+            "UTC-06:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/ben.svg",
+        "name": "Benin",
+        "alpha3Code": "BEN",
+        "capital": "Porto-Novo",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/bmu.svg",
+        "name": "Bermuda",
+        "alpha3Code": "BMU",
+        "capital": "Hamilton",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/btn.svg",
+        "name": "Bhutan",
+        "alpha3Code": "BTN",
+        "capital": "Thimphu",
+        "timezones": [
+            "UTC+06:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/bol.svg",
+        "name": "Bolivia (Plurinational State of)",
+        "alpha3Code": "BOL",
+        "capital": "Sucre",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/bes.svg",
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "alpha3Code": "BES",
+        "capital": "Kralendijk",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/bih.svg",
+        "name": "Bosnia and Herzegovina",
+        "alpha3Code": "BIH",
+        "capital": "Sarajevo",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/bwa.svg",
+        "name": "Botswana",
+        "alpha3Code": "BWA",
+        "capital": "Gaborone",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/bvt.svg",
+        "name": "Bouvet Island",
+        "alpha3Code": "BVT",
+        "capital": "",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/bra.svg",
+        "name": "Brazil",
+        "alpha3Code": "BRA",
+        "capital": "Brasília",
+        "timezones": [
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/iot.svg",
+        "name": "British Indian Ocean Territory",
+        "alpha3Code": "IOT",
+        "capital": "Diego Garcia",
+        "timezones": [
+            "UTC+06:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/umi.svg",
+        "name": "United States Minor Outlying Islands",
+        "alpha3Code": "UMI",
+        "capital": "",
+        "timezones": [
+            "UTC-11:00",
+            "UTC-10:00",
+            "UTC+12:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/vgb.svg",
+        "name": "Virgin Islands (British)",
+        "alpha3Code": "VGB",
+        "capital": "Road Town",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/vir.svg",
+        "name": "Virgin Islands (U.S.)",
+        "alpha3Code": "VIR",
+        "capital": "Charlotte Amalie",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/brn.svg",
+        "name": "Brunei Darussalam",
+        "alpha3Code": "BRN",
+        "capital": "Bandar Seri Begawan",
+        "timezones": [
+            "UTC+08:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/bgr.svg",
+        "name": "Bulgaria",
+        "alpha3Code": "BGR",
+        "capital": "Sofia",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/bfa.svg",
+        "name": "Burkina Faso",
+        "alpha3Code": "BFA",
+        "capital": "Ouagadougou",
+        "timezones": [
+            "UTC"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/bdi.svg",
+        "name": "Burundi",
+        "alpha3Code": "BDI",
+        "capital": "Bujumbura",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/khm.svg",
+        "name": "Cambodia",
+        "alpha3Code": "KHM",
+        "capital": "Phnom Penh",
+        "timezones": [
+            "UTC+07:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/cmr.svg",
+        "name": "Cameroon",
+        "alpha3Code": "CMR",
+        "capital": "Yaoundé",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/can.svg",
+        "name": "Canada",
+        "alpha3Code": "CAN",
+        "capital": "Ottawa",
+        "timezones": [
+            "UTC-08:00",
+            "UTC-07:00",
+            "UTC-06:00",
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC-03:30"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/cpv.svg",
+        "name": "Cabo Verde",
+        "alpha3Code": "CPV",
+        "capital": "Praia",
+        "timezones": [
+            "UTC-01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/cym.svg",
+        "name": "Cayman Islands",
+        "alpha3Code": "CYM",
+        "capital": "George Town",
+        "timezones": [
+            "UTC-05:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/caf.svg",
+        "name": "Central African Republic",
+        "alpha3Code": "CAF",
+        "capital": "Bangui",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/tcd.svg",
+        "name": "Chad",
+        "alpha3Code": "TCD",
+        "capital": "N'Djamena",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/chl.svg",
+        "name": "Chile",
+        "alpha3Code": "CHL",
+        "capital": "Santiago",
+        "timezones": [
+            "UTC-06:00",
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/chn.svg",
+        "name": "China",
+        "alpha3Code": "CHN",
+        "capital": "Beijing",
+        "timezones": [
+            "UTC+08:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/cxr.svg",
+        "name": "Christmas Island",
+        "alpha3Code": "CXR",
+        "capital": "Flying Fish Cove",
+        "timezones": [
+            "UTC+07:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/cck.svg",
+        "name": "Cocos (Keeling) Islands",
+        "alpha3Code": "CCK",
+        "capital": "West Island",
+        "timezones": [
+            "UTC+06:30"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/col.svg",
+        "name": "Colombia",
+        "alpha3Code": "COL",
+        "capital": "Bogotá",
+        "timezones": [
+            "UTC-05:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/com.svg",
+        "name": "Comoros",
+        "alpha3Code": "COM",
+        "capital": "Moroni",
+        "timezones": [
+            "UTC+03:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/cog.svg",
+        "name": "Congo",
+        "alpha3Code": "COG",
+        "capital": "Brazzaville",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/cod.svg",
+        "name": "Congo (Democratic Republic of the)",
+        "alpha3Code": "COD",
+        "capital": "Kinshasa",
+        "timezones": [
+            "UTC+01:00",
+            "UTC+02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/cok.svg",
+        "name": "Cook Islands",
+        "alpha3Code": "COK",
+        "capital": "Avarua",
+        "timezones": [
+            "UTC-10:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/cri.svg",
+        "name": "Costa Rica",
+        "alpha3Code": "CRI",
+        "capital": "San José",
+        "timezones": [
+            "UTC-06:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/hrv.svg",
+        "name": "Croatia",
+        "alpha3Code": "HRV",
+        "capital": "Zagreb",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/cub.svg",
+        "name": "Cuba",
+        "alpha3Code": "CUB",
+        "capital": "Havana",
+        "timezones": [
+            "UTC-05:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/cuw.svg",
+        "name": "Curaçao",
+        "alpha3Code": "CUW",
+        "capital": "Willemstad",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/cyp.svg",
+        "name": "Cyprus",
+        "alpha3Code": "CYP",
+        "capital": "Nicosia",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/cze.svg",
+        "name": "Czech Republic",
+        "alpha3Code": "CZE",
+        "capital": "Prague",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/dnk.svg",
+        "name": "Denmark",
+        "alpha3Code": "DNK",
+        "capital": "Copenhagen",
+        "timezones": [
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-01:00",
+            "UTC",
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/dji.svg",
+        "name": "Djibouti",
+        "alpha3Code": "DJI",
+        "capital": "Djibouti",
+        "timezones": [
+            "UTC+03:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/dma.svg",
+        "name": "Dominica",
+        "alpha3Code": "DMA",
+        "capital": "Roseau",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/dom.svg",
+        "name": "Dominican Republic",
+        "alpha3Code": "DOM",
+        "capital": "Santo Domingo",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/ecu.svg",
+        "name": "Ecuador",
+        "alpha3Code": "ECU",
+        "capital": "Quito",
+        "timezones": [
+            "UTC-06:00",
+            "UTC-05:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/egy.svg",
+        "name": "Egypt",
+        "alpha3Code": "EGY",
+        "capital": "Cairo",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/slv.svg",
+        "name": "El Salvador",
+        "alpha3Code": "SLV",
+        "capital": "San Salvador",
+        "timezones": [
+            "UTC-06:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/gnq.svg",
+        "name": "Equatorial Guinea",
+        "alpha3Code": "GNQ",
+        "capital": "Malabo",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/eri.svg",
+        "name": "Eritrea",
+        "alpha3Code": "ERI",
+        "capital": "Asmara",
+        "timezones": [
+            "UTC+03:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/est.svg",
+        "name": "Estonia",
+        "alpha3Code": "EST",
+        "capital": "Tallinn",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/eth.svg",
+        "name": "Ethiopia",
+        "alpha3Code": "ETH",
+        "capital": "Addis Ababa",
+        "timezones": [
+            "UTC+03:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/flk.svg",
+        "name": "Falkland Islands (Malvinas)",
+        "alpha3Code": "FLK",
+        "capital": "Stanley",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/fro.svg",
+        "name": "Faroe Islands",
+        "alpha3Code": "FRO",
+        "capital": "Tórshavn",
+        "timezones": [
+            "UTC+00:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/fji.svg",
+        "name": "Fiji",
+        "alpha3Code": "FJI",
+        "capital": "Suva",
+        "timezones": [
+            "UTC+12:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/fin.svg",
+        "name": "Finland",
+        "alpha3Code": "FIN",
+        "capital": "Helsinki",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/fra.svg",
+        "name": "France",
+        "alpha3Code": "FRA",
+        "capital": "Paris",
+        "timezones": [
+            "UTC-10:00",
+            "UTC-09:30",
+            "UTC-09:00",
+            "UTC-08:00",
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC+01:00",
+            "UTC+03:00",
+            "UTC+04:00",
+            "UTC+05:00",
+            "UTC+11:00",
+            "UTC+12:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/guf.svg",
+        "name": "French Guiana",
+        "alpha3Code": "GUF",
+        "capital": "Cayenne",
+        "timezones": [
+            "UTC-03:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/pyf.svg",
+        "name": "French Polynesia",
+        "alpha3Code": "PYF",
+        "capital": "Papeetē",
+        "timezones": [
+            "UTC-10:00",
+            "UTC-09:30",
+            "UTC-09:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/atf.svg",
+        "name": "French Southern Territories",
+        "alpha3Code": "ATF",
+        "capital": "Port-aux-Français",
+        "timezones": [
+            "UTC+05:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/gab.svg",
+        "name": "Gabon",
+        "alpha3Code": "GAB",
+        "capital": "Libreville",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/gmb.svg",
+        "name": "Gambia",
+        "alpha3Code": "GMB",
+        "capital": "Banjul",
+        "timezones": [
+            "UTC+00:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/geo.svg",
+        "name": "Georgia",
+        "alpha3Code": "GEO",
+        "capital": "Tbilisi",
+        "timezones": [
+            "UTC-05:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/deu.svg",
+        "name": "Germany",
+        "alpha3Code": "DEU",
+        "capital": "Berlin",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/gha.svg",
+        "name": "Ghana",
+        "alpha3Code": "GHA",
+        "capital": "Accra",
+        "timezones": [
+            "UTC"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/gib.svg",
+        "name": "Gibraltar",
+        "alpha3Code": "GIB",
+        "capital": "Gibraltar",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/grc.svg",
+        "name": "Greece",
+        "alpha3Code": "GRC",
+        "capital": "Athens",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/grl.svg",
+        "name": "Greenland",
+        "alpha3Code": "GRL",
+        "capital": "Nuuk",
+        "timezones": [
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-01:00",
+            "UTC+00:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/grd.svg",
+        "name": "Grenada",
+        "alpha3Code": "GRD",
+        "capital": "St. George's",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/glp.svg",
+        "name": "Guadeloupe",
+        "alpha3Code": "GLP",
+        "capital": "Basse-Terre",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/gum.svg",
+        "name": "Guam",
+        "alpha3Code": "GUM",
+        "capital": "Hagåtña",
+        "timezones": [
+            "UTC+10:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/gtm.svg",
+        "name": "Guatemala",
+        "alpha3Code": "GTM",
+        "capital": "Guatemala City",
+        "timezones": [
+            "UTC-06:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/ggy.svg",
+        "name": "Guernsey",
+        "alpha3Code": "GGY",
+        "capital": "St. Peter Port",
+        "timezones": [
+            "UTC+00:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/gin.svg",
+        "name": "Guinea",
+        "alpha3Code": "GIN",
+        "capital": "Conakry",
+        "timezones": [
+            "UTC"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/gnb.svg",
+        "name": "Guinea-Bissau",
+        "alpha3Code": "GNB",
+        "capital": "Bissau",
+        "timezones": [
+            "UTC"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/guy.svg",
+        "name": "Guyana",
+        "alpha3Code": "GUY",
+        "capital": "Georgetown",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/hti.svg",
+        "name": "Haiti",
+        "alpha3Code": "HTI",
+        "capital": "Port-au-Prince",
+        "timezones": [
+            "UTC-05:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/hmd.svg",
+        "name": "Heard Island and McDonald Islands",
+        "alpha3Code": "HMD",
+        "capital": "",
+        "timezones": [
+            "UTC+05:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/vat.svg",
+        "name": "Holy See",
+        "alpha3Code": "VAT",
+        "capital": "Rome",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/hnd.svg",
+        "name": "Honduras",
+        "alpha3Code": "HND",
+        "capital": "Tegucigalpa",
+        "timezones": [
+            "UTC-06:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/hkg.svg",
+        "name": "Hong Kong",
+        "alpha3Code": "HKG",
+        "capital": "City of Victoria",
+        "timezones": [
+            "UTC+08:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/hun.svg",
+        "name": "Hungary",
+        "alpha3Code": "HUN",
+        "capital": "Budapest",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/isl.svg",
+        "name": "Iceland",
+        "alpha3Code": "ISL",
+        "capital": "Reykjavík",
+        "timezones": [
+            "UTC"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/ind.svg",
+        "name": "India",
+        "alpha3Code": "IND",
+        "capital": "New Delhi",
+        "timezones": [
+            "UTC+05:30"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/idn.svg",
+        "name": "Indonesia",
+        "alpha3Code": "IDN",
+        "capital": "Jakarta",
+        "timezones": [
+            "UTC+07:00",
+            "UTC+08:00",
+            "UTC+09:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/civ.svg",
+        "name": "Côte d'Ivoire",
+        "alpha3Code": "CIV",
+        "capital": "Yamoussoukro",
+        "timezones": [
+            "UTC"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/irn.svg",
+        "name": "Iran (Islamic Republic of)",
+        "alpha3Code": "IRN",
+        "capital": "Tehran",
+        "timezones": [
+            "UTC+03:30"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/irq.svg",
+        "name": "Iraq",
+        "alpha3Code": "IRQ",
+        "capital": "Baghdad",
+        "timezones": [
+            "UTC+03:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/irl.svg",
+        "name": "Ireland",
+        "alpha3Code": "IRL",
+        "capital": "Dublin",
+        "timezones": [
+            "UTC"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/imn.svg",
+        "name": "Isle of Man",
+        "alpha3Code": "IMN",
+        "capital": "Douglas",
+        "timezones": [
+            "UTC+00:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/isr.svg",
+        "name": "Israel",
+        "alpha3Code": "ISR",
+        "capital": "Jerusalem",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/ita.svg",
+        "name": "Italy",
+        "alpha3Code": "ITA",
+        "capital": "Rome",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/jam.svg",
+        "name": "Jamaica",
+        "alpha3Code": "JAM",
+        "capital": "Kingston",
+        "timezones": [
+            "UTC-05:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/jpn.svg",
+        "name": "Japan",
+        "alpha3Code": "JPN",
+        "capital": "Tokyo",
+        "timezones": [
+            "UTC+09:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/jey.svg",
+        "name": "Jersey",
+        "alpha3Code": "JEY",
+        "capital": "Saint Helier",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/jor.svg",
+        "name": "Jordan",
+        "alpha3Code": "JOR",
+        "capital": "Amman",
+        "timezones": [
+            "UTC+03:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/kaz.svg",
+        "name": "Kazakhstan",
+        "alpha3Code": "KAZ",
+        "capital": "Astana",
+        "timezones": [
+            "UTC+05:00",
+            "UTC+06:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/ken.svg",
+        "name": "Kenya",
+        "alpha3Code": "KEN",
+        "capital": "Nairobi",
+        "timezones": [
+            "UTC+03:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/kir.svg",
+        "name": "Kiribati",
+        "alpha3Code": "KIR",
+        "capital": "South Tarawa",
+        "timezones": [
+            "UTC+12:00",
+            "UTC+13:00",
+            "UTC+14:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/kwt.svg",
+        "name": "Kuwait",
+        "alpha3Code": "KWT",
+        "capital": "Kuwait City",
+        "timezones": [
+            "UTC+03:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/kgz.svg",
+        "name": "Kyrgyzstan",
+        "alpha3Code": "KGZ",
+        "capital": "Bishkek",
+        "timezones": [
+            "UTC+06:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/lao.svg",
+        "name": "Lao People's Democratic Republic",
+        "alpha3Code": "LAO",
+        "capital": "Vientiane",
+        "timezones": [
+            "UTC+07:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/lva.svg",
+        "name": "Latvia",
+        "alpha3Code": "LVA",
+        "capital": "Riga",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/lbn.svg",
+        "name": "Lebanon",
+        "alpha3Code": "LBN",
+        "capital": "Beirut",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/lso.svg",
+        "name": "Lesotho",
+        "alpha3Code": "LSO",
+        "capital": "Maseru",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/lbr.svg",
+        "name": "Liberia",
+        "alpha3Code": "LBR",
+        "capital": "Monrovia",
+        "timezones": [
+            "UTC"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/lby.svg",
+        "name": "Libya",
+        "alpha3Code": "LBY",
+        "capital": "Tripoli",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/lie.svg",
+        "name": "Liechtenstein",
+        "alpha3Code": "LIE",
+        "capital": "Vaduz",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/ltu.svg",
+        "name": "Lithuania",
+        "alpha3Code": "LTU",
+        "capital": "Vilnius",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/lux.svg",
+        "name": "Luxembourg",
+        "alpha3Code": "LUX",
+        "capital": "Luxembourg",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/mac.svg",
+        "name": "Macao",
+        "alpha3Code": "MAC",
+        "capital": "",
+        "timezones": [
+            "UTC+08:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/mkd.svg",
+        "name": "Macedonia (the former Yugoslav Republic of)",
+        "alpha3Code": "MKD",
+        "capital": "Skopje",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/mdg.svg",
+        "name": "Madagascar",
+        "alpha3Code": "MDG",
+        "capital": "Antananarivo",
+        "timezones": [
+            "UTC+03:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/mwi.svg",
+        "name": "Malawi",
+        "alpha3Code": "MWI",
+        "capital": "Lilongwe",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/mys.svg",
+        "name": "Malaysia",
+        "alpha3Code": "MYS",
+        "capital": "Kuala Lumpur",
+        "timezones": [
+            "UTC+08:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/mdv.svg",
+        "name": "Maldives",
+        "alpha3Code": "MDV",
+        "capital": "Malé",
+        "timezones": [
+            "UTC+05:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/mli.svg",
+        "name": "Mali",
+        "alpha3Code": "MLI",
+        "capital": "Bamako",
+        "timezones": [
+            "UTC"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/mlt.svg",
+        "name": "Malta",
+        "alpha3Code": "MLT",
+        "capital": "Valletta",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/mhl.svg",
+        "name": "Marshall Islands",
+        "alpha3Code": "MHL",
+        "capital": "Majuro",
+        "timezones": [
+            "UTC+12:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/mtq.svg",
+        "name": "Martinique",
+        "alpha3Code": "MTQ",
+        "capital": "Fort-de-France",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/mrt.svg",
+        "name": "Mauritania",
+        "alpha3Code": "MRT",
+        "capital": "Nouakchott",
+        "timezones": [
+            "UTC"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/mus.svg",
+        "name": "Mauritius",
+        "alpha3Code": "MUS",
+        "capital": "Port Louis",
+        "timezones": [
+            "UTC+04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/myt.svg",
+        "name": "Mayotte",
+        "alpha3Code": "MYT",
+        "capital": "Mamoudzou",
+        "timezones": [
+            "UTC+03:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/mex.svg",
+        "name": "Mexico",
+        "alpha3Code": "MEX",
+        "capital": "Mexico City",
+        "timezones": [
+            "UTC-08:00",
+            "UTC-07:00",
+            "UTC-06:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/fsm.svg",
+        "name": "Micronesia (Federated States of)",
+        "alpha3Code": "FSM",
+        "capital": "Palikir",
+        "timezones": [
+            "UTC+10:00",
+            "UTC+11"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/mda.svg",
+        "name": "Moldova (Republic of)",
+        "alpha3Code": "MDA",
+        "capital": "Chișinău",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/mco.svg",
+        "name": "Monaco",
+        "alpha3Code": "MCO",
+        "capital": "Monaco",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/mng.svg",
+        "name": "Mongolia",
+        "alpha3Code": "MNG",
+        "capital": "Ulan Bator",
+        "timezones": [
+            "UTC+07:00",
+            "UTC+08:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/mne.svg",
+        "name": "Montenegro",
+        "alpha3Code": "MNE",
+        "capital": "Podgorica",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/msr.svg",
+        "name": "Montserrat",
+        "alpha3Code": "MSR",
+        "capital": "Plymouth",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/mar.svg",
+        "name": "Morocco",
+        "alpha3Code": "MAR",
+        "capital": "Rabat",
+        "timezones": [
+            "UTC"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/moz.svg",
+        "name": "Mozambique",
+        "alpha3Code": "MOZ",
+        "capital": "Maputo",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/mmr.svg",
+        "name": "Myanmar",
+        "alpha3Code": "MMR",
+        "capital": "Naypyidaw",
+        "timezones": [
+            "UTC+06:30"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/nam.svg",
+        "name": "Namibia",
+        "alpha3Code": "NAM",
+        "capital": "Windhoek",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/nru.svg",
+        "name": "Nauru",
+        "alpha3Code": "NRU",
+        "capital": "Yaren",
+        "timezones": [
+            "UTC+12:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/npl.svg",
+        "name": "Nepal",
+        "alpha3Code": "NPL",
+        "capital": "Kathmandu",
+        "timezones": [
+            "UTC+05:45"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/nld.svg",
+        "name": "Netherlands",
+        "alpha3Code": "NLD",
+        "capital": "Amsterdam",
+        "timezones": [
+            "UTC-04:00",
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/ncl.svg",
+        "name": "New Caledonia",
+        "alpha3Code": "NCL",
+        "capital": "Nouméa",
+        "timezones": [
+            "UTC+11:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/nzl.svg",
+        "name": "New Zealand",
+        "alpha3Code": "NZL",
+        "capital": "Wellington",
+        "timezones": [
+            "UTC-11:00",
+            "UTC-10:00",
+            "UTC+12:00",
+            "UTC+12:45",
+            "UTC+13:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/nic.svg",
+        "name": "Nicaragua",
+        "alpha3Code": "NIC",
+        "capital": "Managua",
+        "timezones": [
+            "UTC-06:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/ner.svg",
+        "name": "Niger",
+        "alpha3Code": "NER",
+        "capital": "Niamey",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/nga.svg",
+        "name": "Nigeria",
+        "alpha3Code": "NGA",
+        "capital": "Abuja",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/niu.svg",
+        "name": "Niue",
+        "alpha3Code": "NIU",
+        "capital": "Alofi",
+        "timezones": [
+            "UTC-11:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/nfk.svg",
+        "name": "Norfolk Island",
+        "alpha3Code": "NFK",
+        "capital": "Kingston",
+        "timezones": [
+            "UTC+11:30"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/prk.svg",
+        "name": "Korea (Democratic People's Republic of)",
+        "alpha3Code": "PRK",
+        "capital": "Pyongyang",
+        "timezones": [
+            "UTC+09:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/mnp.svg",
+        "name": "Northern Mariana Islands",
+        "alpha3Code": "MNP",
+        "capital": "Saipan",
+        "timezones": [
+            "UTC+10:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/nor.svg",
+        "name": "Norway",
+        "alpha3Code": "NOR",
+        "capital": "Oslo",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/omn.svg",
+        "name": "Oman",
+        "alpha3Code": "OMN",
+        "capital": "Muscat",
+        "timezones": [
+            "UTC+04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/pak.svg",
+        "name": "Pakistan",
+        "alpha3Code": "PAK",
+        "capital": "Islamabad",
+        "timezones": [
+            "UTC+05:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/plw.svg",
+        "name": "Palau",
+        "alpha3Code": "PLW",
+        "capital": "Ngerulmud",
+        "timezones": [
+            "UTC+09:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/pse.svg",
+        "name": "Palestine, State of",
+        "alpha3Code": "PSE",
+        "capital": "Ramallah",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/pan.svg",
+        "name": "Panama",
+        "alpha3Code": "PAN",
+        "capital": "Panama City",
+        "timezones": [
+            "UTC-05:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/png.svg",
+        "name": "Papua New Guinea",
+        "alpha3Code": "PNG",
+        "capital": "Port Moresby",
+        "timezones": [
+            "UTC+10:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/pry.svg",
+        "name": "Paraguay",
+        "alpha3Code": "PRY",
+        "capital": "Asunción",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/per.svg",
+        "name": "Peru",
+        "alpha3Code": "PER",
+        "capital": "Lima",
+        "timezones": [
+            "UTC-05:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/phl.svg",
+        "name": "Philippines",
+        "alpha3Code": "PHL",
+        "capital": "Manila",
+        "timezones": [
+            "UTC+08:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/pcn.svg",
+        "name": "Pitcairn",
+        "alpha3Code": "PCN",
+        "capital": "Adamstown",
+        "timezones": [
+            "UTC-08:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/pol.svg",
+        "name": "Poland",
+        "alpha3Code": "POL",
+        "capital": "Warsaw",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/prt.svg",
+        "name": "Portugal",
+        "alpha3Code": "PRT",
+        "capital": "Lisbon",
+        "timezones": [
+            "UTC-01:00",
+            "UTC"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/pri.svg",
+        "name": "Puerto Rico",
+        "alpha3Code": "PRI",
+        "capital": "San Juan",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/qat.svg",
+        "name": "Qatar",
+        "alpha3Code": "QAT",
+        "capital": "Doha",
+        "timezones": [
+            "UTC+03:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/kos.svg",
+        "name": "Republic of Kosovo",
+        "alpha3Code": "KOS",
+        "capital": "Pristina",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/reu.svg",
+        "name": "Réunion",
+        "alpha3Code": "REU",
+        "capital": "Saint-Denis",
+        "timezones": [
+            "UTC+04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/rou.svg",
+        "name": "Romania",
+        "alpha3Code": "ROU",
+        "capital": "Bucharest",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/rus.svg",
+        "name": "Russian Federation",
+        "alpha3Code": "RUS",
+        "capital": "Moscow",
+        "timezones": [
+            "UTC+03:00",
+            "UTC+04:00",
+            "UTC+06:00",
+            "UTC+07:00",
+            "UTC+08:00",
+            "UTC+09:00",
+            "UTC+10:00",
+            "UTC+11:00",
+            "UTC+12:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/rwa.svg",
+        "name": "Rwanda",
+        "alpha3Code": "RWA",
+        "capital": "Kigali",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/blm.svg",
+        "name": "Saint Barthélemy",
+        "alpha3Code": "BLM",
+        "capital": "Gustavia",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/shn.svg",
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "alpha3Code": "SHN",
+        "capital": "Jamestown",
+        "timezones": [
+            "UTC+00:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/kna.svg",
+        "name": "Saint Kitts and Nevis",
+        "alpha3Code": "KNA",
+        "capital": "Basseterre",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/lca.svg",
+        "name": "Saint Lucia",
+        "alpha3Code": "LCA",
+        "capital": "Castries",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/maf.svg",
+        "name": "Saint Martin (French part)",
+        "alpha3Code": "MAF",
+        "capital": "Marigot",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/spm.svg",
+        "name": "Saint Pierre and Miquelon",
+        "alpha3Code": "SPM",
+        "capital": "Saint-Pierre",
+        "timezones": [
+            "UTC-03:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/vct.svg",
+        "name": "Saint Vincent and the Grenadines",
+        "alpha3Code": "VCT",
+        "capital": "Kingstown",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/wsm.svg",
+        "name": "Samoa",
+        "alpha3Code": "WSM",
+        "capital": "Apia",
+        "timezones": [
+            "UTC+13:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/smr.svg",
+        "name": "San Marino",
+        "alpha3Code": "SMR",
+        "capital": "City of San Marino",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/stp.svg",
+        "name": "Sao Tome and Principe",
+        "alpha3Code": "STP",
+        "capital": "São Tomé",
+        "timezones": [
+            "UTC"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/sau.svg",
+        "name": "Saudi Arabia",
+        "alpha3Code": "SAU",
+        "capital": "Riyadh",
+        "timezones": [
+            "UTC+03:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/sen.svg",
+        "name": "Senegal",
+        "alpha3Code": "SEN",
+        "capital": "Dakar",
+        "timezones": [
+            "UTC"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/srb.svg",
+        "name": "Serbia",
+        "alpha3Code": "SRB",
+        "capital": "Belgrade",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/syc.svg",
+        "name": "Seychelles",
+        "alpha3Code": "SYC",
+        "capital": "Victoria",
+        "timezones": [
+            "UTC+04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/sle.svg",
+        "name": "Sierra Leone",
+        "alpha3Code": "SLE",
+        "capital": "Freetown",
+        "timezones": [
+            "UTC"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/sgp.svg",
+        "name": "Singapore",
+        "alpha3Code": "SGP",
+        "capital": "Singapore",
+        "timezones": [
+            "UTC+08:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/sxm.svg",
+        "name": "Sint Maarten (Dutch part)",
+        "alpha3Code": "SXM",
+        "capital": "Philipsburg",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/svk.svg",
+        "name": "Slovakia",
+        "alpha3Code": "SVK",
+        "capital": "Bratislava",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/svn.svg",
+        "name": "Slovenia",
+        "alpha3Code": "SVN",
+        "capital": "Ljubljana",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/slb.svg",
+        "name": "Solomon Islands",
+        "alpha3Code": "SLB",
+        "capital": "Honiara",
+        "timezones": [
+            "UTC+11:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/som.svg",
+        "name": "Somalia",
+        "alpha3Code": "SOM",
+        "capital": "Mogadishu",
+        "timezones": [
+            "UTC+03:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/zaf.svg",
+        "name": "South Africa",
+        "alpha3Code": "ZAF",
+        "capital": "Pretoria",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/sgs.svg",
+        "name": "South Georgia and the South Sandwich Islands",
+        "alpha3Code": "SGS",
+        "capital": "King Edward Point",
+        "timezones": [
+            "UTC-02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/kor.svg",
+        "name": "Korea (Republic of)",
+        "alpha3Code": "KOR",
+        "capital": "Seoul",
+        "timezones": [
+            "UTC+09:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/ssd.svg",
+        "name": "South Sudan",
+        "alpha3Code": "SSD",
+        "capital": "Juba",
+        "timezones": [
+            "UTC+03:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/esp.svg",
+        "name": "Spain",
+        "alpha3Code": "ESP",
+        "capital": "Madrid",
+        "timezones": [
+            "UTC",
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/lka.svg",
+        "name": "Sri Lanka",
+        "alpha3Code": "LKA",
+        "capital": "Colombo",
+        "timezones": [
+            "UTC+05:30"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/sdn.svg",
+        "name": "Sudan",
+        "alpha3Code": "SDN",
+        "capital": "Khartoum",
+        "timezones": [
+            "UTC+03:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/sur.svg",
+        "name": "Suriname",
+        "alpha3Code": "SUR",
+        "capital": "Paramaribo",
+        "timezones": [
+            "UTC-03:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/sjm.svg",
+        "name": "Svalbard and Jan Mayen",
+        "alpha3Code": "SJM",
+        "capital": "Longyearbyen",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/swz.svg",
+        "name": "Swaziland",
+        "alpha3Code": "SWZ",
+        "capital": "Lobamba",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/swe.svg",
+        "name": "Sweden",
+        "alpha3Code": "SWE",
+        "capital": "Stockholm",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/che.svg",
+        "name": "Switzerland",
+        "alpha3Code": "CHE",
+        "capital": "Bern",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/syr.svg",
+        "name": "Syrian Arab Republic",
+        "alpha3Code": "SYR",
+        "capital": "Damascus",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/twn.svg",
+        "name": "Taiwan",
+        "alpha3Code": "TWN",
+        "capital": "Taipei",
+        "timezones": [
+            "UTC+08:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/tjk.svg",
+        "name": "Tajikistan",
+        "alpha3Code": "TJK",
+        "capital": "Dushanbe",
+        "timezones": [
+            "UTC+05:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/tza.svg",
+        "name": "Tanzania, United Republic of",
+        "alpha3Code": "TZA",
+        "capital": "Dodoma",
+        "timezones": [
+            "UTC+03:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/tha.svg",
+        "name": "Thailand",
+        "alpha3Code": "THA",
+        "capital": "Bangkok",
+        "timezones": [
+            "UTC+07:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/tls.svg",
+        "name": "Timor-Leste",
+        "alpha3Code": "TLS",
+        "capital": "Dili",
+        "timezones": [
+            "UTC+09:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/tgo.svg",
+        "name": "Togo",
+        "alpha3Code": "TGO",
+        "capital": "Lomé",
+        "timezones": [
+            "UTC"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/tkl.svg",
+        "name": "Tokelau",
+        "alpha3Code": "TKL",
+        "capital": "Fakaofo",
+        "timezones": [
+            "UTC+13:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/ton.svg",
+        "name": "Tonga",
+        "alpha3Code": "TON",
+        "capital": "Nuku'alofa",
+        "timezones": [
+            "UTC+13:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/tto.svg",
+        "name": "Trinidad and Tobago",
+        "alpha3Code": "TTO",
+        "capital": "Port of Spain",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/tun.svg",
+        "name": "Tunisia",
+        "alpha3Code": "TUN",
+        "capital": "Tunis",
+        "timezones": [
+            "UTC+01:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/tur.svg",
+        "name": "Turkey",
+        "alpha3Code": "TUR",
+        "capital": "Ankara",
+        "timezones": [
+            "UTC+03:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/tkm.svg",
+        "name": "Turkmenistan",
+        "alpha3Code": "TKM",
+        "capital": "Ashgabat",
+        "timezones": [
+            "UTC+05:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/tca.svg",
+        "name": "Turks and Caicos Islands",
+        "alpha3Code": "TCA",
+        "capital": "Cockburn Town",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/tuv.svg",
+        "name": "Tuvalu",
+        "alpha3Code": "TUV",
+        "capital": "Funafuti",
+        "timezones": [
+            "UTC+12:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/uga.svg",
+        "name": "Uganda",
+        "alpha3Code": "UGA",
+        "capital": "Kampala",
+        "timezones": [
+            "UTC+03:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/ukr.svg",
+        "name": "Ukraine",
+        "alpha3Code": "UKR",
+        "capital": "Kiev",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/are.svg",
+        "name": "United Arab Emirates",
+        "alpha3Code": "ARE",
+        "capital": "Abu Dhabi",
+        "timezones": [
+            "UTC+04"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/gbr.svg",
+        "name": "United Kingdom of Great Britain and Northern Ireland",
+        "alpha3Code": "GBR",
+        "capital": "London",
+        "timezones": [
+            "UTC-08:00",
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-02:00",
+            "UTC",
+            "UTC+01:00",
+            "UTC+02:00",
+            "UTC+06:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/usa.svg",
+        "name": "United States of America",
+        "alpha3Code": "USA",
+        "capital": "Washington, D.C.",
+        "timezones": [
+            "UTC-12:00",
+            "UTC-11:00",
+            "UTC-10:00",
+            "UTC-09:00",
+            "UTC-08:00",
+            "UTC-07:00",
+            "UTC-06:00",
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC+10:00",
+            "UTC+12:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/ury.svg",
+        "name": "Uruguay",
+        "alpha3Code": "URY",
+        "capital": "Montevideo",
+        "timezones": [
+            "UTC-03:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/uzb.svg",
+        "name": "Uzbekistan",
+        "alpha3Code": "UZB",
+        "capital": "Tashkent",
+        "timezones": [
+            "UTC+05:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/vut.svg",
+        "name": "Vanuatu",
+        "alpha3Code": "VUT",
+        "capital": "Port Vila",
+        "timezones": [
+            "UTC+11:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/ven.svg",
+        "name": "Venezuela (Bolivarian Republic of)",
+        "alpha3Code": "VEN",
+        "capital": "Caracas",
+        "timezones": [
+            "UTC-04:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/vnm.svg",
+        "name": "Viet Nam",
+        "alpha3Code": "VNM",
+        "capital": "Hanoi",
+        "timezones": [
+            "UTC+07:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/wlf.svg",
+        "name": "Wallis and Futuna",
+        "alpha3Code": "WLF",
+        "capital": "Mata-Utu",
+        "timezones": [
+            "UTC+12:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/esh.svg",
+        "name": "Western Sahara",
+        "alpha3Code": "ESH",
+        "capital": "El Aaiún",
+        "timezones": [
+            "UTC+00:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/yem.svg",
+        "name": "Yemen",
+        "alpha3Code": "YEM",
+        "capital": "Sana'a",
+        "timezones": [
+            "UTC+03:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/zmb.svg",
+        "name": "Zambia",
+        "alpha3Code": "ZMB",
+        "capital": "Lusaka",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    },
+    {
+        "flag": "https://restcountries.eu/data/zwe.svg",
+        "name": "Zimbabwe",
+        "alpha3Code": "ZWE",
+        "capital": "Harare",
+        "timezones": [
+            "UTC+02:00"
+        ]
+    }
+]

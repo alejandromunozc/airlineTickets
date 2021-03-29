@@ -1,5 +1,6 @@
 const express = require('express');
 const app = express();
+require('./lib/dbConnect');
 
 const { config } = require('./config/index');
 const flights = require('./routes/flights.routes');

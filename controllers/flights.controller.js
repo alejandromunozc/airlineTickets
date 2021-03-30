@@ -14,8 +14,8 @@ flightController.getFlights = async(req, res) => {
 flightController.getFlight = async(req, res) => {
     const { id } = req.params;
     try {
-        const flights = await flightModel.findOne({ _id: id });
-        res.json({ flights });
+        const flight = await flightModel.findOne({ _id: id });
+        res.json({ flight });
     } catch (error) {
         res.json({ message: error });
     }
@@ -44,18 +44,22 @@ flightController.updateFlight = async(req, res) => {
         isFull: flight.capacity === req.body.occupiedSeats ? true : false
     }
 
-    if (req.body.tickets) {
-        newData.tickets = flight.tickets;
-        newData.tickets[newData.tickets.length] = req.body.tickets;
-    }
-
     try {
         await flightModel.findByIdAndUpdate(id, { $set: newData });
         res.json({ flight: newData });
     } catch (error) {
         res.json({ message: error });
     }
+}
 
+flightController.updateFlightTickets = async(flightId, ticketId) => {
+    const flight = await flightModel.findOne({ _id: flightId });
+    flight.tickets.push(ticketId);
+    try {
+        await flightModel.findByIdAndUpdate(flightId, { $set: flight });
+    } catch (error) {
+
+    }
 }
 
 flightController.deleteFlight = async(req, res) => {
@@ -65,7 +69,6 @@ flightController.deleteFlight = async(req, res) => {
     } catch (error) {
         res.json({ message: error });
     }
-
 }
 
 module.exports = flightController;

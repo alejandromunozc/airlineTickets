@@ -22,8 +22,8 @@ flightController.getFlight = async(req, res) => {
 }
 
 flightController.createFlight = async(req, res) => {
-    const { origin, destination, capacity, date } = req.body;
-    const newFlight = new flightModel({ origin, destination, capacity, date, occupiedSeats: 0, isFull: false });
+    const { origin, originFlag, destination, destinationFlag, capacity, date } = req.body;
+    const newFlight = new flightModel({ origin, originFlag, destination, destinationFlag, capacity, date, occupiedSeats: 0, isFull: false });
     try {
         await newFlight.save();
         res.json({ flight: newFlight });
@@ -37,7 +37,9 @@ flightController.updateFlight = async(req, res) => {
     const flight = await flightModel.findOne({ _id: id });
     const newData = {
         origin: req.body.origin || flight.origin,
+        originFlag: req.body.originFlag || flight.originFlag,
         destination: req.body.destination || flight.destination,
+        destinationFlag: req.body.destinationFlag || flight.destinationFlag,
         capacity: req.body.capacity || flight.capacity,
         date: req.body.date || flight.date,
         occupiedSeats: req.body.occupiedSeats || flight.occupiedSeats,

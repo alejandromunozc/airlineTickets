@@ -1,11 +1,13 @@
 const ticketController = {}
 
 const ticketModel = require('../lib/models/ticket');
+const flightModel = require('../lib/models/flight');
 const { updateFlightTickets } = require('./flights.controller');
 
 ticketController.getTickets = async(req, res) => {
     try {
-        const tickets = await ticketModel.find();
+        const flight = await flightModel.findOne({ _id: req.body.flightId });
+        const tickets = await ticketModel.find({ _id: { $in: flight.tickets } });
         res.json({ tickets });
     } catch (error) {
         res.json({ message: error });
@@ -24,6 +26,7 @@ ticketController.getTicket = async(req, res) => {
 
 ticketController.createTicket = async(req, res) => {
     const { passengerName, passengerLastname, seatNumber, flightId } = req.body;
+    console.log(req.body);
     const newTicket = new ticketModel({ passengerName, passengerLastname, seatNumber, flightId });
     const { id } = newTicket;
     try {

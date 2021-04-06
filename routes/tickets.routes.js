@@ -10,7 +10,7 @@ const {
 
 router.post('/api/tickets/', getTickets);
 router.get('/api/tickets/:id', getTicket);
-router.post('/api/tickets/', createTicket);
+router.post('/api/tickets/add/', createTicket);
 router.put('/api/tickets/:id', updateTicket);
 router.delete('/api/tickets/:id', deleteTicket);
 

@@ -26,7 +26,6 @@ ticketController.getTicket = async(req, res) => {
 
 ticketController.createTicket = async(req, res) => {
     const { passengerName, passengerLastname, seatNumber, flightId } = req.body;
-    console.log(req.body);
     const newTicket = new ticketModel({ passengerName, passengerLastname, seatNumber, flightId });
     const { id } = newTicket;
     try {

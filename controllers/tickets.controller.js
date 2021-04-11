@@ -55,9 +55,15 @@ ticketController.updateTicket = async(req, res) => {
 }
 
 ticketController.deleteTicket = async(req, res) => {
+    const ticketId = req.params.id;
     try {
-        await ticketModel.findByIdAndDelete(req.params.id);
-        res.json({ id: req.params.id });
+        const { flightId } = await ticketModel.findOne({ _id: ticketId });
+        const flight = await flightModel.findOne({ _id: flightId });
+        const indexTicket = flight.tickets.indexOf(ticketId);
+        flight.tickets.splice(indexTicket, 1);
+        await flightModel.findByIdAndUpdate(flightId, { $set: flight });
+        await ticketModel.findByIdAndDelete(ticketId);
+        res.json({ id: ticketId });
     } catch (error) {
         res.json({ message: error });
     }

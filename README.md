@@ -68,4 +68,4 @@ Feel free to contribute to the project!
 
 ## 🔄 License
 
-EventApp is MIT Licensed.
+AirlineTicket is MIT Licensed.
